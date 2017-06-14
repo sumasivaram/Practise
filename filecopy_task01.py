@@ -35,5 +35,5 @@ def file_copy(path):
             except IndexError:
                exit
         
-path = '\\/192.168.3.2/\ji/\Engineering and Innovation/\SumaPriya/\HigEd'
+path = ''
 print file_copy(path)
